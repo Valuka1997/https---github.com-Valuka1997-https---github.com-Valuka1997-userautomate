@@ -6,6 +6,7 @@
 # -u userid
 
 # groupadd -p #password
+
 g="Sales HR Finance Personnel CEO Shipping Managers"
 groupadd
 
@@ -27,3 +28,5 @@ echo $last
 echo $uid
 echo $role
 echo $pass
+
+#new comment
